@@ -3,6 +3,6 @@
 en:
   js:
     login:
-      weibo:
-        title: "with Weibo"
-        message: "Authenticating with Weibo (make sure pop up blockers are not enabled)"
+      tuanz:
+        title: "with tuanz"
+        message: "Authenticating with tuanz (make sure pop up blockers are not enabled)"

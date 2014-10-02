@@ -2,5 +2,5 @@
 
 en:
   site_settings:
-    weibo_client_id: "Client id for Weibo authentication, registered at http://open.weibo.com/"
-    weibo_client_secret: "Client secret for Weibo authentication, registered at http://open.weibo.com/"
+    tuan_client_id: "Client id for Weibo authentication, registered at http://open.tuan.com/"
+    tuan_client_secret: "Client secret for Weibo authentication, registered at http://open.tuan.com/"

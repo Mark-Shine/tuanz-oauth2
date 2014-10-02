@@ -1,5 +1,5 @@
 login:
-  weibo_client_id:
+  tuanz_client_id:
     default: ''
-  weibo_client_secret:
+  tuanz_client_secret:
     default: ''

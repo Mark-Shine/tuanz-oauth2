@@ -2,5 +2,5 @@
 
 zh_CN:
   site_settings:
-    weibo_client_id: "微博帐号验证的客户端帐号（Client id），到 http://open.weibo.com/ 来注册获取"
-    weibo_client_secret: "微博帐号验证的客户端密码（Client secret），到 http://open.weibo.com/ 来注册获取"
+    tuanz_client_id: "团长帐号验证的客户端帐号（Client id）"
+    tuanz_client_secret: "团长帐号验证的客户端密码（Client secret）"
